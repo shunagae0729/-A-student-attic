@@ -57,14 +57,7 @@ a {
   }
   
 
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
 
-.twitter {
-  background-color: #55acee;
-}
 
 .btn {
   padding: 8px 24px;
@@ -83,9 +76,7 @@ a {
   margin-right: 5px;
 }
 
-.fab {
-  margin-right: 5px;
-}
+
 
 header {
   height: 65px;
