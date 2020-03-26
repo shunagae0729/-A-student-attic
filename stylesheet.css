@@ -12,13 +12,13 @@ a {
 }
 
 .container {
-  width: 70%;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper {
-  padding: 180px　0px 100px opx;
+  padding: 10px　0px 10px 0px;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6QeCDJa11Xdh8KotNRfcDZiUExUruGTMRZ9SK7epCiwV7SEni");
   background-size: cover;
   color: white;
