@@ -46,8 +46,14 @@ a {
 }
 
 .psn {
-  background-color: #239b76;
+  background-color: blue;
+  margin-right: 10px;
 }
+
+.steam {
+  background-color: grey;
+  }
+  
 
 .facebook {
   background-color: #3b5998;
