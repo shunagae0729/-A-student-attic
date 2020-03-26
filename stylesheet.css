@@ -21,7 +21,7 @@ a {
   padding-top:180px;
   padding-bottom:100px;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6QeCDJa11Xdh8KotNRfcDZiUExUruGTMRZ9SK7epCiwV7SEni");
-  background-size: auto;
+  background-size: cover;
   backfround-repeat:no-repeat;
   color: white;
   text-align: center;
