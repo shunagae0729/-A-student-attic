@@ -87,8 +87,8 @@ header {
 }
 
 .logo {
-  width:50px;
-  height:50px;
+  width:10px;
+  height:10px;
 }
 
 .header-left {
@@ -132,20 +132,22 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.lesson1 {
   float: left;
   width: 25%;
 }
 
 .lesson-icon {
   position: relative;
+  height:70px;
+  width:70px;
 }
 
 .lesson-icon p {
   position: absolute;
   top: 37%;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
