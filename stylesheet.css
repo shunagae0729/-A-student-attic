@@ -147,6 +147,10 @@ header {
   color: black;
 }
 
+ul li{
+  padding-left:3px;
+}
+
 .text-contents {
   width: 80%;
   display: inline-block;
