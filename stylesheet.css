@@ -143,8 +143,8 @@ header {
 
 .lesson-icon a {
   position: absolute;
-  top: 100%;
-  width: 95%;
+  top: 50%;
+  width: 50%;
   color: black;
   font-weight:bold;
   
@@ -170,7 +170,6 @@ ul{
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
-  background-color:aliceblue;
 }
 
 .message {
