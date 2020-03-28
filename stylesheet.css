@@ -118,7 +118,6 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: aliceblue;
   text-align: center;
 }
 
@@ -143,16 +142,14 @@ header {
 
 .lesson-icon a {
   position: absolute;
-  top: 50%;
-  width: 50%;
+  top: 100%;
+  width: 100%;
   color: black;
   font-weight:bold;
   
 }
 
-ul{
-  text-align:center;
-}
+
 
 .text-contents {
   width: 80%;
