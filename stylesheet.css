@@ -220,9 +220,7 @@ footer {
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
-    height: 990px;
-  }
+
 
 
 }
@@ -271,7 +269,7 @@ footer {
   }
 
   .lesson-wrapper {
-    height: 200px;
+    height:500px;
   }
 
   .message-wrapper .btn {
