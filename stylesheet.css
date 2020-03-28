@@ -138,6 +138,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  
 }
 
 .lesson-icon p {
@@ -145,6 +146,7 @@ header {
   top: 180%;
   width: 95%;
   color: black;
+  font-weight:bold;
 }
 
 ul{
