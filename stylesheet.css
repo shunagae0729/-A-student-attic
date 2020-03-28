@@ -147,8 +147,8 @@ header {
   color: black;
 }
 
-ul li{
-  padding-left:3px;
+ul{
+  text-align:center;
 }
 
 .text-contents {
