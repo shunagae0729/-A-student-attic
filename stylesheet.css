@@ -134,22 +134,19 @@ header {
 
 .lesson {
   float: left;
-  width: 12.5%;
+  width: 25%;
 }
 
 .lesson-icon {
   position: relative;
-  height:400px;
-  width:700px;
 }
 
-.lesson-icon span {
+.lesson-icon p {
   position: absolute;
-  top: 400%;
-  width: 600%;
-  color: black;
+  top: 37%;
+  width: 100%;
+  color: white;
 }
-
 .text-contents {
   width: 80%;
   display: inline-block;
