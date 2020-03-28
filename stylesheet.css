@@ -142,8 +142,8 @@ header {
 
 .lesson-icon a {
   position: absolute;
-  top: 100%;
-  width: 40%;
+  top: 200px;
+  width: 120px;
   color: black;
   font-weight:bold;
   
