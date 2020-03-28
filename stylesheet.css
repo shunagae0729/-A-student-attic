@@ -144,8 +144,9 @@ header {
   position: absolute;
   top: 37%;
   width: 100%;
-  color: ;
+  color:black;
 }
+
 .text-contents {
   width: 80%;
   display: inline-block;
