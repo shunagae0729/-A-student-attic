@@ -133,8 +133,7 @@ header {
 }
 
 .lesson {
-  float: left;
-  width: 25%;
+  height: 25%;
 }
 
 .lesson-icon {
