@@ -33,6 +33,11 @@ a {
   letter-spacing: 5px;
 }
 
+.top-wrapper h2 {
+  font-size: 30px;
+  font-family:cursive;
+}
+
 .top-wrapper p {
   opacity: 0.9;
   font-size: 16px;
