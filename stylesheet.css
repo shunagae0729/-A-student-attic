@@ -137,7 +137,8 @@ header {
 }
 
 .heading a {
-  font-size: 20px;
+  font-size: 15px;
+  display:block
 }
 
 .lesson {
@@ -164,7 +165,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 100px;
-  font-size: 20px;
+  font-size: 10px;
   color: darkblue;
 }
 
