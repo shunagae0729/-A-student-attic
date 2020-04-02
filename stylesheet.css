@@ -133,7 +133,11 @@ header {
 }
 
 .heading h2 {
-  font-weight: normal;
+  font-weight: bold;
+}
+
+.heading li {
+  font-size: 10px;
 }
 
 .lesson {
