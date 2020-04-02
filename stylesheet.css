@@ -136,8 +136,8 @@ header {
   font-weight: bold;
 }
 
-.heading li {
-  font-size: 10px;
+.heading a {
+  font-size: 20px;
 }
 
 .lesson {
@@ -149,7 +149,7 @@ header {
   
 }
 
-.lesson-icon a {
+.lesson-icon h1 {
   position: absolute;
   top: 50px;
   left: 200px;
@@ -164,7 +164,7 @@ header {
   width: 80%;
   display: inline-block;
   margin-top: 100px;
-  font-size: 10px;
+  font-size: 20px;
   color: darkblue;
 }
 
