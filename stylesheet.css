@@ -155,6 +155,10 @@ header {
   text-align: center;
 }
 
+.lessons {
+  text-align: center;
+}
+
 .lesson-icon {
   padding-top:30px;
   position: relative;
