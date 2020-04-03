@@ -125,7 +125,7 @@ header {
 }
 
 .lesson-wrapper {
-  height: 1000px;
+  height: 2000px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -136,6 +136,7 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
+  border-bottom;1px solid #df7163;
 }
 
 .heading h2 {
@@ -191,9 +192,11 @@ header {
 
 
 .impression li {
-  width:70%;
+  width:60%;
   display:inline-block;
   text-align:center;
+  padding-top:5px;
+  padding-bottom:5px;
   
 
 
@@ -299,13 +302,7 @@ footer {
     font-size: 14px;
   }
 
-  .lesson {
-    width: 100%;
-  }
 
-  .lesson-wrapper {
-    height:500px;
-  }
 
   .message-wrapper .btn {
     width: 100%;
