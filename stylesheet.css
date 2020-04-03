@@ -185,8 +185,10 @@ header {
 
 .impression-ryu {
   width:70%;
+  display: inline-block;
   font-size:15px;
-  margin-bottom:8px;
+  margin-bottom:15px;
+  text-align:center;
 }
 
 .heading h3 {
