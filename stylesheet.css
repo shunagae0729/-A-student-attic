@@ -127,7 +127,7 @@ header {
 }
 
 .lesson-wrapper {
-  height: auto;
+  height: 100px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -151,7 +151,7 @@ header {
 }
 
 .lesson {
-  height: auto;
+  height: 25%;
 }
 
 .lesson-icon {
