@@ -83,10 +83,11 @@ a {
 hr {
    margin-top:5px;
    margin-bottom:5px;
-   border-width: 1px 0px 0px 0px;
+   width:70%;
    border-style: solid;
    border-color: grey;   
-   height: 3px;         
+   height: 5px; 
+   border: none;
 }
 
 
