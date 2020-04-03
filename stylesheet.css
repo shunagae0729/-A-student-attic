@@ -81,10 +81,12 @@ a {
 }
 
 hr {
+   padding-top:5px;
+   padding-bottom:5px;
    border-width: 1px 0px 0px 0px;
-   border-style: dashed;
-   border-color: gray;   
-   height: 1px;         
+   border-style: solid;
+   border-color: grey;   
+   height: 3px;         
 }
 
 
@@ -136,7 +138,7 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-  border-bottom;1px solid #df7163;
+  border-bottom;1px,solid #df7163;
 }
 
 .heading h2 {
@@ -192,11 +194,11 @@ header {
 
 
 .impression li {
-  width:60%;
+  width:70%;
   display:inline-block;
   text-align:center;
-  padding-top:5px;
-  padding-bottom:5px;
+  padding-top:10px;
+  padding-bottom:10px;
   
 
 
