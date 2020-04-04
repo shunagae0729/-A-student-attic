@@ -205,6 +205,14 @@ a:hover {
   text-align:center;
 }
 
+.impression p {
+  text-align:center;
+  margin:10px;
+  font-family:cursive;
+  font-size:25px;
+  font-color:black;
+}
+
 
 ul li {
   width:70%;
