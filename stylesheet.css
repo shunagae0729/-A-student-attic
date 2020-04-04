@@ -181,6 +181,12 @@ header {
   color:grey;
 }
 
+a:hover {
+  color: skyblue;
+  font-weight: bold;
+  cursor:pointer;
+}
+
 
 
 .text-contents {
