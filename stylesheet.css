@@ -252,7 +252,7 @@ ul li {
 }
 
 footer img {
-  width: 125px;
+  float:left;
 }
 
 footer p {
