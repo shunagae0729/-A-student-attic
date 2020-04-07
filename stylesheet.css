@@ -109,6 +109,11 @@ header {
 
 }
 
+
+.logo1 p {
+  font-size: 10px;
+}
+
 .header-left {
   float: left;
 }
